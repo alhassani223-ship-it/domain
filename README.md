@@ -1,0 +1,2 @@
+# domain
+for serch domain
